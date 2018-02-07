@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\..\..\..\..\CNC Project\c\stepper.mcppi
+Project1=CNC.mcppi
+[ActiveProject]
+Index=1

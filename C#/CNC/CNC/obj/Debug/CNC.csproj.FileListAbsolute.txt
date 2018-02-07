@@ -1,0 +1,9 @@
+E:\3rd Year\First Term\PC Peripheral Interfacing\Projects\CNC Project\C#\CNC\CNC\bin\Debug\CNC.exe.config
+E:\3rd Year\First Term\PC Peripheral Interfacing\Projects\CNC Project\C#\CNC\CNC\bin\Debug\CNC.exe
+E:\3rd Year\First Term\PC Peripheral Interfacing\Projects\CNC Project\C#\CNC\CNC\bin\Debug\CNC.pdb
+E:\3rd Year\First Term\PC Peripheral Interfacing\Projects\CNC Project\C#\CNC\CNC\obj\Debug\CNC.csprojResolveAssemblyReference.cache
+E:\3rd Year\First Term\PC Peripheral Interfacing\Projects\CNC Project\C#\CNC\CNC\obj\Debug\CNC.Form1.resources
+E:\3rd Year\First Term\PC Peripheral Interfacing\Projects\CNC Project\C#\CNC\CNC\obj\Debug\CNC.Properties.Resources.resources
+E:\3rd Year\First Term\PC Peripheral Interfacing\Projects\CNC Project\C#\CNC\CNC\obj\Debug\CNC.csproj.GenerateResource.Cache
+E:\3rd Year\First Term\PC Peripheral Interfacing\Projects\CNC Project\C#\CNC\CNC\obj\Debug\CNC.exe
+E:\3rd Year\First Term\PC Peripheral Interfacing\Projects\CNC Project\C#\CNC\CNC\obj\Debug\CNC.pdb
